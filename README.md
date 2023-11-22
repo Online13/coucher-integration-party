@@ -3,6 +3,10 @@
 This project is an integration of wireframes designed by **Fanomezantsoa Kezia**. <br/>
 The goal of this project is to bring the wireframes to life by implementing them into a functional and user-friendly product.
 
+<img src="screenshot.png" alt="screenshot" />
+
+[coucher-integration.netlify.app](coucher-integration.netlify.app)
+
 ## Project Scope
 
 The scope of this project encompasses the following tasks:
